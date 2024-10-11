@@ -30,4 +30,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1392-find-the-difference-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
