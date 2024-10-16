@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0392-is-subsequence) |
 | [2470-removing-stars-from-a-string](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -73,4 +74,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
