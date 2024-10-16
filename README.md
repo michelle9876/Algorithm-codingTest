@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0136-single-number) |
 | [0605-can-place-flowers](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0605-can-place-flowers) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
