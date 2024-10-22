@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
 | [0605-can-place-flowers](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0605-can-place-flowers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -56,10 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -83,4 +86,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0392-is-subsequence) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
