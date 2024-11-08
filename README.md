@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
 | [0605-can-place-flowers](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0605-can-place-flowers) |
+| [1019-squares-of-a-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
