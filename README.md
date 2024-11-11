@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0605-can-place-flowers) |
 | [1019-squares-of-a-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2427-first-letter-to-appear-twice) |
@@ -78,10 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
@@ -106,9 +110,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2427-first-letter-to-appear-twice) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
