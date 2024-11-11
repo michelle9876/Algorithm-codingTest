@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0035-search-insert-position) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0001-two-sum) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
 |  |
