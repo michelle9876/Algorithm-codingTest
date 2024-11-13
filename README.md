@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0392-is-subsequence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0020-valid-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
