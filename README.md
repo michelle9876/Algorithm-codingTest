@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0383-ransom-note) |
 | [1391-counting-elements](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1391-counting-elements) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0392-is-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
