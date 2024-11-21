@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0383-ransom-note) |
 | [1391-counting-elements](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0392-is-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0383-ransom-note) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2427-first-letter-to-appear-twice) |
