@@ -139,5 +139,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
