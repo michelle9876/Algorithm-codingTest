@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1019-squares-of-a-sorted-array) |
 | [1391-counting-elements](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2331-intersection-of-multiple-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2331-intersection-of-multiple-arrays) |
 ## Greedy
@@ -141,4 +142,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
