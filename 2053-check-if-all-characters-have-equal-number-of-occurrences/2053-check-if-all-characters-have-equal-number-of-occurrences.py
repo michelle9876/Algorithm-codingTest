@@ -1,18 +1,16 @@
 from collections import defaultdict
 class Solution:
     def areOccurrencesEqual(self, s: str) -> bool:
-        counts = defaultdict(int)
-        check = set()
+        count = defaultdict(int)
+        set_s = set(s)
 
         for char in s:
-            counts[char] += 1
-        # print(counts)
-        for key in counts:
-            print(counts[key])
-            check.add(counts[key])
-        if len(check) == 1:
+            count[char] += 1
+        
+        # print(count)
+
+        if len(set(count.values())) == 1 :
             return True
-        else:
+        else: 
             return False
-       
-       
+        
