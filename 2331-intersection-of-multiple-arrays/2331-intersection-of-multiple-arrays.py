@@ -1,21 +1,17 @@
 from collections import defaultdict
-
 class Solution:
     def intersection(self, nums: List[List[int]]) -> List[int]:
-
-        counts = defaultdict(int)
-        for arr in nums:
-            for x in arr :
-                if x in arr:
-                    counts[x] += 1
-        # print(counts)
+        count = defaultdict(int)
         n = len(nums)
-        answer = []
-        for key in counts:
-            if counts[key] == n : 
-                answer.append(key)
-        return sorted(answer)
-                
-
-
+        dic = {}
+        for i in range(n) :
+            for j in range(len(nums[i])):
+                if nums[i][j] not in dic:
+                    count[nums[i][j]] += 1
+        # print(count)
         
+        # for key, value in count.items():
+        #     if value == n :
+        #         return [key]
+        key_result = [key for key, value in count.items() if value == n]
+        return sorted(key_result)
