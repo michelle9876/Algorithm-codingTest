@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0605-can-place-flowers) |
 | [1019-squares-of-a-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1019-squares-of-a-sorted-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0383-ransom-note) |
+| [1370-count-number-of-nice-subarrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -149,5 +151,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1370-count-number-of-nice-subarrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
