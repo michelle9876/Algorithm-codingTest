@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0383-ransom-note) |
 | [1098-largest-unique-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1098-largest-unique-number) |
+| [1297-maximum-number-of-balloons](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1391-counting-elements) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0392-is-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1297-maximum-number-of-balloons](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1297-maximum-number-of-balloons) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2427-first-letter-to-appear-twice) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0383-ransom-note) |
+| [1297-maximum-number-of-balloons](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2331-intersection-of-multiple-arrays) |
