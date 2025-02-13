@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0290-word-pattern) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0290-word-pattern) |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1098-largest-unique-number) |
