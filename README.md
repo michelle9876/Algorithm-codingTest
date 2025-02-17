@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2331-intersection-of-multiple-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2331-intersection-of-multiple-arrays) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2427-first-letter-to-appear-twice) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
 | ------- |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1354-find-players-with-zero-or-one-losses](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2331-intersection-of-multiple-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2331-intersection-of-multiple-arrays) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
 |  |
 | ------- |
@@ -175,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1370-count-number-of-nice-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
