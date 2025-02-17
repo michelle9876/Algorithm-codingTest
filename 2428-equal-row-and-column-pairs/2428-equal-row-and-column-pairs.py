@@ -2,7 +2,7 @@ from collections import defaultdict
 class Solution:
     def equalPairs(self, grid: List[List[int]]) -> int:
         def convert_to_key(arr):
-            return tuple(arr)
+            return tuple(arr)  # 리스트를 튜플로 변환 (딕셔너리의 키로 사용하기 위해)
         
         row_dic = defaultdict(int)
         for row in grid:
@@ -14,7 +14,7 @@ class Solution:
         
         col_dic = defaultdict(int)
         
-        for col in range(len(grid[0])):
+        for col in range(len(grid[0])):  # 열의 개수만큼 반복
             curr_col = []
             for row in range(len(grid)):
                 print(col, row, grid[row][col])
