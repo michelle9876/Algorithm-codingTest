@@ -24,18 +24,16 @@ class Solution:
         print(col_dic)
 
         ans = 0
-        for r_key in row_dic:
-            for c_key in col_dic:
-                if r_key == c_key:
-                    ans += row_dic[r_key] * col_dic[c_key]
-        return(ans)
+        # for r_key in row_dic:
+        #     for c_key in col_dic:
+        #         if r_key == c_key:
+        #             ans += row_dic[r_key] * col_dic[c_key]
+        # return(ans)
 
-
-        # for row_key, col_key in zip(row_dic, col_dic):
-        #     if col_key in row_key:
-        #         ans.append(col_key)
-        # print(ans)
-
+        for key in row_dic:
+            if key in col_dic:
+                ans += row_dic[key] * col_dic[key]
+        return ans
 
 
 
