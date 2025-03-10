@@ -99,23 +99,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0112-path-sum) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0112-path-sum) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
