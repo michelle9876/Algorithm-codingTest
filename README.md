@@ -98,20 +98,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0112-path-sum) |
 ## Binary Search
 |  |
 | ------- |
