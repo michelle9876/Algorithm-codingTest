@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0200-number-of-islands) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -135,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1544-count-good-nodes-in-binary-tree) |
