@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -233,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
