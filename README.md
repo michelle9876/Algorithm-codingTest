@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0605-can-place-flowers) |
+| [0747-min-cost-climbing-stairs](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0747-min-cost-climbing-stairs) |
 | [1019-squares-of-a-sorted-array](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0747-min-cost-climbing-stairs) |
 ## Union Find
 |  |
 | ------- |
