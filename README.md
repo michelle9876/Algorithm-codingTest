@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/michelle9876/Algorithm-codingTest/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2262-solving-questions-with-brainpower](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2262-solving-questions-with-brainpower) |
 | [2331-intersection-of-multiple-arrays](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2331-intersection-of-multiple-arrays) |
 | [2428-equal-row-and-column-pairs](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/michelle9876/Algorithm-codingTest/tree/master/0747-min-cost-climbing-stairs) |
+| [2262-solving-questions-with-brainpower](https://github.com/michelle9876/Algorithm-codingTest/tree/master/2262-solving-questions-with-brainpower) |
 ## Union Find
 |  |
 | ------- |
